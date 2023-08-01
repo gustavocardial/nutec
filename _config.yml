@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Nutec / CRB"
-  avatar : "/assets/img/nutec.png"
+  avatar : "/assets/images/nutec.png"
   bio    : "Núcleo de Tecnologias Educacionais do campus Rio Branco"
   links:
     - label: "Website"
